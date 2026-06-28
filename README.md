@@ -10,3 +10,10 @@ My friends turned to me and asked if I would be able to build them one - which I
 Fast forward to 2025 and during the late autumn, the guys asked if it would be possible to have a display mounted in the cockpit to allow for greater situational awarenesss. This was in the form of the SkyView EZ https://github.com/lyusupov/SoftRF/wiki/SkyView-EZ which went together much more smoothly than the transponder. The trickies thing about this half of the project was designing the lowest profile enclosure for the display as possible. The original files would have been too large in their 1960s vintage glider.
 
 As of spring 2026, the display and transponder have been reporting accurate position for other aircraft when G-DDJR is airborne. 
+
+A couple more images of the case:
+<img width="3024" height="4032" alt="IMG_9373" src="https://github.com/user-attachments/assets/b07a4bd6-f53e-4de7-ab9a-e39b0c298226" />
+
+<img width="3024" height="4032" alt="IMG_9375" src="https://github.com/user-attachments/assets/41e429d1-b3de-42e7-926e-7309949b6428" />
+
+Designed with a dovetail in it's back to allow for easy removal from the cockpit.
